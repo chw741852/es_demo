@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: es_demo
+  data:
+    elasticsearch:
+      cluster-nodes: 172.51.96.165:9300
